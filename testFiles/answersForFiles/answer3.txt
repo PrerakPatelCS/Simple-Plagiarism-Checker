@@ -1,0 +1,14 @@
+PrintNodes
+/home/pjp121/Compare/NewCompare/testing/defaultTest.txt
+/home/pjp121/Compare/NewCompare/testing/test2.txt
+/home/pjp121/Compare/NewCompare/testing/lorenlpsum.txt
+/home/pjp121/Compare/NewCompare/testing/test3.txt
+/home/pjp121/Compare/NewCompare/testing2/wordList.txt
+/home/pjp121/Compare/NewCompare/testing2/alice29.txt
+/home/pjp121/Compare/NewCompare/testing/longFile.txt
+/home/pjp121/Compare/NewCompare/testing/spacingTest.txt
+/home/pjp121/Compare/NewCompare/testing/mediumFile.txt
+/home/pjp121/Compare/NewCompare/testing/test1.txt
+/home/pjp121/Compare/NewCompare/testing/subDirectory/moby.txt
+NUMBER OF DIRECTORY THREADS = 11
+NUMBER OF FILES = 11

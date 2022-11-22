@@ -1,0 +1,15 @@
+Word: hello
+Occurrences: 4
+Frequency: 0.333333
+Filename: /home/pjp121/Compare/NewCompare/testWFD/testWFDFiles/test1.txt
+
+Word: hi
+Occurrences: 4
+Frequency: 0.333333
+Filename: /home/pjp121/Compare/NewCompare/testWFD/testWFDFiles/test1.txt
+
+Word: there
+Occurrences: 4
+Frequency: 0.333333
+Filename: /home/pjp121/Compare/NewCompare/testWFD/testWFDFiles/test1.txt
+

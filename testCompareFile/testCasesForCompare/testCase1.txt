@@ -1,0 +1,6 @@
+0.895240 /home/pjp121/Compare/NewCompare/testing2/alice29.txt /home/pjp121/Compare/NewCompare/testing2/wordList.txt
+0.750388 /home/pjp121/Compare/NewCompare/testing2/alice29.txt /home/pjp121/Compare/NewCompare/testing/test2.txt
+0.763485 /home/pjp121/Compare/NewCompare/testing2/alice29.txt /home/pjp121/Compare/NewCompare/testing/test1.txt
+0.949169 /home/pjp121/Compare/NewCompare/testing2/wordList.txt /home/pjp121/Compare/NewCompare/testing/test2.txt
+0.957113 /home/pjp121/Compare/NewCompare/testing2/wordList.txt /home/pjp121/Compare/NewCompare/testing/test1.txt
+0.654548 /home/pjp121/Compare/NewCompare/testing/test2.txt /home/pjp121/Compare/NewCompare/testing/test1.txt

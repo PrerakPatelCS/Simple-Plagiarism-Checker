@@ -1,0 +1,5 @@
+PrintNodes
+/home/pjp121/Compare/NewCompare/testing2/wordList.txt
+/home/pjp121/Compare/NewCompare/testing2/alice29.txt
+NUMBER OF DIRECTORY THREADS = 2
+NUMBER OF FILES = 2
