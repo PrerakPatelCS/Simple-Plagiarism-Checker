@@ -1,0 +1,15 @@
+[1;37m0.541545 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/paraphrase.txt /home/pjp121/Compare/NewCompare/plagiarismTest/largeCopiedTests.txt
+[1;37m0.563011 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/paraphrase.txt /home/pjp121/Compare/NewCompare/plagiarismTest/original.txt
+[1;37m0.607315 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/paraphrase.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diffKeyWord.txt
+[1;37m0.729956 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/paraphrase.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diluted.txt
+[1;37m0.563011 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/paraphrase.txt /home/pjp121/Compare/NewCompare/plagiarismTest/wordForWord.txt
+[1;32m0.154979 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/largeCopiedTests.txt /home/pjp121/Compare/NewCompare/plagiarismTest/original.txt
+[1;37m0.378515 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/largeCopiedTests.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diffKeyWord.txt
+[1;37m0.652215 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/largeCopiedTests.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diluted.txt
+[1;32m0.154979 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/largeCopiedTests.txt /home/pjp121/Compare/NewCompare/plagiarismTest/wordForWord.txt
+[1;37m0.348833 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/original.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diffKeyWord.txt
+[1;37m0.654882 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/original.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diluted.txt
+[1;31m0.000000 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/original.txt /home/pjp121/Compare/NewCompare/plagiarismTest/wordForWord.txt
+[1;37m0.691869 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/diffKeyWord.txt /home/pjp121/Compare/NewCompare/plagiarismTest/diluted.txt
+[1;37m0.348833 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/diffKeyWord.txt /home/pjp121/Compare/NewCompare/plagiarismTest/wordForWord.txt
+[1;37m0.654882 [0m/home/pjp121/Compare/NewCompare/plagiarismTest/diluted.txt /home/pjp121/Compare/NewCompare/plagiarismTest/wordForWord.txt
